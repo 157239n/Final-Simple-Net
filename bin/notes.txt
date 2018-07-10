@@ -1,0 +1,1 @@
+Possibly all individual methods related to ProgressThread will become private so you don't have to mind them

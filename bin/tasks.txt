@@ -1,0 +1,10 @@
+list of global stuff to do
+check scopes:       InfoPacket _Float BoolList Dir Env
+clear (float)s:     InfoPacket _Float BoolList Dir Env
+throws styles:      InfoPacket _Float BoolList Dir Env
+return:             InfoPacket _Float BoolList Dir Env
+clear global TODOs: InfoPacket _Float BoolList Dir Env
+local TODOs left:   
+- InfoPacket
+- Dir
+- Env
